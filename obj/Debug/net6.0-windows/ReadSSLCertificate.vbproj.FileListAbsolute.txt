@@ -1,0 +1,16 @@
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\bin\Debug\net6.0-windows\ReadSSLCertificate.exe
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\bin\Debug\net6.0-windows\ReadSSLCertificate.deps.json
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\bin\Debug\net6.0-windows\ReadSSLCertificate.runtimeconfig.json
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\bin\Debug\net6.0-windows\ReadSSLCertificate.dll
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\bin\Debug\net6.0-windows\ReadSSLCertificate.pdb
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\obj\Debug\net6.0-windows\ReadSSLCertificate.Form1.resources
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\obj\Debug\net6.0-windows\ReadSSLCertificate.vbproj.GenerateResource.cache
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\obj\Debug\net6.0-windows\ReadSSLCertificate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\obj\Debug\net6.0-windows\ReadSSLCertificate.AssemblyInfoInputs.cache
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\obj\Debug\net6.0-windows\ReadSSLCertificate.AssemblyInfo.vb
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\obj\Debug\net6.0-windows\ReadSSLCertificate.vbproj.CoreCompileInputs.cache
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\obj\Debug\net6.0-windows\ReadSSLCertificate.dll
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\obj\Debug\net6.0-windows\refint\ReadSSLCertificate.dll
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\obj\Debug\net6.0-windows\ReadSSLCertificate.pdb
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\obj\Debug\net6.0-windows\ReadSSLCertificate.genruntimeconfig.cache
+C:\Users\paulp\source\repos\ReadSSLCertificate\ReadSSLCertificate\obj\Debug\net6.0-windows\ref\ReadSSLCertificate.dll
